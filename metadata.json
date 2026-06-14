@@ -1,0 +1,6 @@
+{
+  "name": "Uber B2B Delivery & Argentina Map",
+  "description": "An Uber-inspired futuristic B2B Delivery Plus mobile mockups showcase and developer controller. Features dark nocturnal tones with soft neon electric blue and purple glows, built-in map tracking simulation, interactive role selectors, and core branding consistent with Peluquería Canina Gustavo Bettiol.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
